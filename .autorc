@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "metalcode03",
+  "repo": "container-4ohmbxw",
+  "name": "metalcode03",
+  "email": "metalcode03@gmail.com",
+}
